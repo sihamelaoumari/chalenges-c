@@ -12,10 +12,6 @@ int main() {
     scanf("%s",&prenom);
     printf("entrer votre age :");
         scanf("%d",&age);
-        printf("entrer votre nom :");
-    scanf("%s",&sexe);
-    // Write C code here
-    printf("Try programiz.pro");
 
     return 0;
 }
